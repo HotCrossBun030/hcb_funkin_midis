@@ -1,2 +1,2 @@
 # hcb_funkin_midis
-A collection of Friday Night Funkin' MIDIs made by yours truly. READ THE README
+You're free to use these in your covers/remixes and such, just please leave credit aned link the github in the description of your video if you do so! I don't like stolen content...
